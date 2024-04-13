@@ -57,11 +57,9 @@ pip install mysql-connector-python
 - You can also type and scroll too, enjoy.
 - More information here https://github.com/Srinadhch07/QueryManager.git with the raw code.
 
-## Features
+## Feature
 
-- This QueryManager provides more personlised responses when compared to previous version
-- Still You can use previous version and present version as per users convenience
-- QueryManager and BAvG both are compitable for both online and offline environments
+- This innovative tool eliminates the complexities and tediousness associated with database tasks, allowing developers to allocate their valuable time and energy towards other critical projects
 
 ## Usage
 
